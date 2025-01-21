@@ -1,4 +1,4 @@
-# E-Governance Platform  
+# E-Governance Platform  (Console Application)
 
 ## Introduction  
 Governance in the digital era demands efficient, transparent, and accessible platforms for effective citizen-government interaction. The E-Governance Platform is a comprehensive system designed to streamline the management of citizen complaints, service requests, and administrative processes. This project aims to enhance transparency, accountability, and citizen satisfaction while reducing bureaucracy.  
