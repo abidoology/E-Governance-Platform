@@ -32,11 +32,9 @@ public:
         : id(complaintId), userId(userId), title(complaintTitle), description(complaintDescription), status("Pending") {}
 };
 
-// Global vectors for storing users and complaints
 vector<User> users;
 vector<Complaint> complaints;
 
-// Function prototypes
 void loadUsersFromFile();
 void saveUsersToFile();
 void loadComplaintsFromFile();
